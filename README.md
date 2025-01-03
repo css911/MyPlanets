@@ -1,7 +1,7 @@
 
 # MyPlanets
 
-MyPlanets is an Augmented Reality (AR) project that lets users interact with and explore virtual planets in an immersive, interactive experience. By leveraging AR technology, users can view, manipulate, and learn about planets in a dynamic 3D space directly on their mobile devices.
+MyPlanets is an Virtual Reality (VR) project that lets users interact with and explore virtual planets in an immersive, interactive experience. By leveraging AR technology, users can view, manipulate, and learn about planets in a dynamic 3D space directly on their mobile devices.
 
 ![image](https://github.com/user-attachments/assets/2ba42a91-899c-4467-ab46-61926f6bc53b)
 
